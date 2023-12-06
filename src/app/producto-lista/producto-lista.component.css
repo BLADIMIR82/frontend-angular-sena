@@ -1,0 +1,18 @@
+.container {
+  background: rgb(122, 129, 129);
+  background: linear-gradient(
+    0deg,
+    rgba(122, 129, 129, 1) 0%,
+    rgba(87, 84, 84, 1) 80%
+  );
+  width: 90%;
+  max-width: 100%;
+  font-size: 1.2rem;
+  color: rgb(203, 202, 209);
+}
+thead {
+  color: white;
+}
+td {
+  color: white;
+}

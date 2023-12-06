@@ -1,0 +1,14 @@
+.container{
+    width: 80%;
+    border: 2px solid #000;
+    border-radius: 10px;
+    margin-top: 3rem;
+    background: rgb(122, 129, 129);
+  background: linear-gradient(
+    0deg,
+    rgba(122, 129, 129, 1) 0%,
+    rgba(87, 84, 84, 1) 80%
+  );
+  font-size: 1.3rem;
+  color: rgb(203, 202, 209);
+}

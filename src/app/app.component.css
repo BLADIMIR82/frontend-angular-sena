@@ -1,0 +1,12 @@
+.container-footer{
+width: 100%;
+margin: 0;
+min-width: 100%;
+
+}
+html{
+    padding: 0;
+    margin: 0;
+    height: auto;
+    box-sizing: content-box;
+}
